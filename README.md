@@ -1,4 +1,6 @@
 # maya_mel_keyReduce
+
+< Animation / motion>
 Reduce the animation keys in Maya.
 
 <img width="332" height="432" alt="UI" src="https://github.com/user-attachments/assets/1e9458d8-77d7-4705-aff4-ef15c54c2b20" />
