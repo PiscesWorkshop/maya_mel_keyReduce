@@ -1,8 +1,7 @@
 # maya_mel_keyReduce
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/PiscesWorkshop)
 
 < Animation / motion>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/PiscesWorkshop)
 
 Reduce the animation keys in Maya.
 
